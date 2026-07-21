@@ -40,8 +40,6 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
----
-
 ### 🤖 Artificial Intelligence & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
@@ -51,8 +49,6 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-
----
 
 ### 🔐 Cybersecurity
 
@@ -72,7 +68,6 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![Steghide](https://img.shields.io/badge/Steghide-006400?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
 ### ☁️ Cloud & Databases
 
@@ -81,13 +76,11 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
----
 
 ### 📊 Data Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
----
 
 ### 🎨 Design
 
@@ -97,7 +90,6 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=flat&logo=affinity-photo&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 
----
 
 ### ⚙️ Development Tools
 
@@ -108,7 +100,6 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
----
 
 ## 🚀 Current Focus
 

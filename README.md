@@ -20,6 +20,8 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 
 # 📌 Featured Projects
 
+🔹 MHZ_C1F VulnHub Penetration Testing Lab 
+
 🔹 Brain Tumor Detection using CNN (TensorFlow)
 
 🔹 CDAV - Calibration Data Analysis & Visualization Tool
